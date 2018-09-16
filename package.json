@@ -27,7 +27,7 @@
     "meow": "*",
     "progress": "*",
     "rollup": "*",
-    "rollup-plugin-typescript": "*",
+    "rollup-plugin-typescript": ">=1.0.0",
     "tape": "*",
     "typescript": "*",
     "yamljs": "*"
