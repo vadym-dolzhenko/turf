@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@types/geojson": "*",
-    "@types/node": "*",
+    "@types/node": ">=10.10.0",
     "camelcase": "*",
     "d3-queue": "*",
     "decamelize": "*",
