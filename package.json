@@ -13,7 +13,7 @@
     "postinstall": "opencollective postinstall"
   },
   "devDependencies": {
-    "@types/geojson": "*",
+    "@types/geojson": ">=7946.0.5",
     "@types/node": "*",
     "camelcase": "*",
     "d3-queue": "*",
