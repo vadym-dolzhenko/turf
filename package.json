@@ -23,7 +23,7 @@
     "eslint-config-mourner": "*",
     "fs-extra": "*",
     "lerna": "2.8.0",
-    "load-json-file": "*",
+    "load-json-file": ">=5.2.0",
     "meow": "*",
     "progress": "*",
     "rollup": "*",
