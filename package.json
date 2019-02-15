@@ -19,7 +19,7 @@
     "d3-queue": "*",
     "decamelize": "*",
     "documentation": "*",
-    "eslint": "*",
+    "eslint": ">=5.14.0",
     "eslint-config-mourner": "*",
     "fs-extra": "*",
     "lerna": "2.8.0",
