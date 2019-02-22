@@ -18,7 +18,7 @@
     "camelcase": "*",
     "d3-queue": "*",
     "decamelize": "*",
-    "documentation": "*",
+    "documentation": "9.1.1",
     "eslint": "*",
     "eslint-config-mourner": "*",
     "fs-extra": "*",
