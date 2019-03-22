@@ -17,7 +17,7 @@
     "@types/node": "*",
     "camelcase": "*",
     "d3-queue": "*",
-    "decamelize": "*",
+    "decamelize": "3.1.0",
     "documentation": "*",
     "eslint": "*",
     "eslint-config-mourner": "*",
