@@ -15,7 +15,7 @@
   "devDependencies": {
     "@types/geojson": "*",
     "@types/node": "*",
-    "camelcase": "*",
+    "camelcase": "5.3.0",
     "d3-queue": "*",
     "decamelize": "*",
     "documentation": "*",
