@@ -21,7 +21,7 @@
     "documentation": "*",
     "eslint": "*",
     "eslint-config-mourner": "*",
-    "fs-extra": "*",
+    "fs-extra": ">=8.0.1",
     "lerna": "2.8.0",
     "load-json-file": "*",
     "meow": "*",
